@@ -32,7 +32,19 @@ npm run dev
 
 8. The http://localhost:1234/ server will automatically open in your browser, if it doesn't hold down the ctrl key then click the link in your terminal to open it in your browser. happy coding!! 🌈
 
+## Take note:
+> When you are in development/building mode you can use 
+```
+npm run dev
+```
+>npm run dev is going to watch your server and any changes that will happen while build will not, this one is also faster.
 
+>When you are ready to push to production ready to put it online you will run:
+
+```
+npm run build
+```
+>The npm run build will optimize your site and it is slow to run but what it puts out is very optimized
 ## Authors:
   
  👤 **Taro Chilongoshi**
@@ -58,6 +70,10 @@ Give a ⭐️ if you like this project!
 
 [<code><img height="26" src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png"></code>](https://github.com/nikoescobal)
  
+
+  👤 **Kevin Powell**
+  
+  [click here to watch video](https://www.youtube.com/watch?v=wYWf2m_yzBQ&t=21s)
 
 ## 📝 MIT License
 
