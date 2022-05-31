@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Tchilo/Sass-parcel-template/issues"
   },
-  "homepage": "https://github.com/Tchilo/Sass-parcel-template#readme"
+  "homepage": "https://github.com/Tchilo/Sass-parcel-template#readme",
+  "dependencies": {
+    "sass": "^1.52.1"
+  }
 }
