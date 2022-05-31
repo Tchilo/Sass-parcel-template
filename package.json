@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Tchilo/Sass-parcel-template#readme",
   "dependencies": {
     "sass": "^1.52.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
   }
 }
